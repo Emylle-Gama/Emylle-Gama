@@ -5,7 +5,7 @@ Emylle Gama | Técinca de Informática
 - Banco de Dados
 - Redes de Computadores
 - Programação Web
-- Programação Direcionada a Objeto
+- Programação Orientada a Objeto
 
 <!---
 Emylle-Gama/Emylle-Gama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
