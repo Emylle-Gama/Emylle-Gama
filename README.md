@@ -1,4 +1,4 @@
-Emylle Gama | Técinca de Informática 
+Emylle Gama | Técnica de Informática 
 - Estudante da EEEP Dona Creusa do Carmo Rocha
 - Conhecimentos em:
 - Arquitetura e Manutenção de Computadores
